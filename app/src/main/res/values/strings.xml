@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Smartline</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtName">Name</string>
+    <string name="lCreate">Create new pipeline</string>
+    <string name="task">Task</string>
+    <string name="overall">Overall</string>
+    <string name="lOperations">Operations</string>
+    <string name="my_activity">my activity</string>
+</resources>

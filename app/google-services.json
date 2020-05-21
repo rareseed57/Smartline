@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "860912514886",
+    "firebase_url": "https://smartline-54e3d.firebaseio.com",
+    "project_id": "smartline-54e3d",
+    "storage_bucket": "smartline-54e3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860912514886:android:649f185383ca9c1ffc9747",
+        "android_client_info": {
+          "package_name": "com.smartline.smartline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860912514886-ji3br2r6sfn805aliccj6ialr8pof28r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartline.smartline",
+            "certificate_hash": "13b315cbad863ad1e902e783234f62a66d588cd9"
+          }
+        },
+        {
+          "client_id": "860912514886-p6ofd2ppfa1ofh5224ol2nbjo49h1294.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartline.smartline",
+            "certificate_hash": "51e7c29bc0227fe2837e8b9b67cbee4568628eb4"
+          }
+        },
+        {
+          "client_id": "860912514886-t52ltoev9ld7p8oakab5kp81fhpar3ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0CMtJsKz5AcwgWmkGWfs2Cc1g6n4jUlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860912514886-t52ltoev9ld7p8oakab5kp81fhpar3ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
